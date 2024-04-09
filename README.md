@@ -15,3 +15,5 @@
    5. Now since the model has been created we need to give input and run the model.
    6. In the command line run the command python main.py </path to input-image> </path to the model>.
    7. After the command is run we will get a image named solved_sudoku in which our solved sudoku is present.
+
+##The stats calculation files are our additional files that we used for testing purposes.The process of using those files is mentioned in howtouse.txt file inside the folder.
