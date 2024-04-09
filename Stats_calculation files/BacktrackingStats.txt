@@ -1,0 +1,13 @@
+The mean Run Time Taken for  100 Sudoku boards Of Difficulty Level  easy Is:  0.00012934446334838867
+The mean Backtracking Iteration Count Taken for 100 Sudoku boards Of Difficulty Level  easy Is:  43.44
+The mean Inputs That are in the Board Given  100 Sudoku boards Of Difficulty Level  easy Is:  46.28
+The mean Run Time Taken for  100 Sudoku boards Of Difficulty Level  medium Is:  0.00034302234649658203
+The mean Backtracking Iteration Count Taken for 100 Sudoku boards Of Difficulty Level  medium Is:  109.98
+The mean Inputs That are in the Board Given  100 Sudoku boards Of Difficulty Level  medium Is:  37.87
+The mean Run Time Taken for  100 Sudoku boards Of Difficulty Level  hard Is:  0.0018626308441162108
+The mean Backtracking Iteration Count Taken for 100 Sudoku boards Of Difficulty Level  hard Is:  567.32
+The mean Inputs That are in the Board Given  100 Sudoku boards Of Difficulty Level  hard Is:  32.78
+The mean Run Time Taken for  100 Sudoku boards Of Difficulty Level  extreme Is:  0.024806320667266846
+The mean Backtracking Iteration Count Taken for 100 Sudoku boards Of Difficulty Level  extreme Is:  7113.86
+The mean Inputs That are in the Board Given  100 Sudoku boards Of Difficulty Level  extreme Is:  28.17
+

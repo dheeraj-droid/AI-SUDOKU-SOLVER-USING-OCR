@@ -1,0 +1,81 @@
+
+
+
+Maximum Stagnation Iterations are 5000
+Maximum Restarts are 100
+Temperatures and Cooling Ranges are 1.0 0.0001 0.001
+Maximum Stagnation Count  5000
+The mean run time of  100 easy sudokus is : 0.21263456583023072
+The mean Cost Value of  100 easy sudokus is : 0.0
+The Accuracy of  100 easy sudokus is : 100.0
+Average Restarts of 100 easy sudokus is : 1.0
+Average Iterations of 100 easy sudokus is : 5965.44
+The mean run time of  100 medium sudokus is : 0.21893431901931762
+The mean Cost Value of  100 medium sudokus is : 0.0
+The Accuracy of  100 medium sudokus is : 100.0
+Average Restarts of 100 medium sudokus is : 1.04
+Average Iterations of 100 medium sudokus is : 6667.03
+The mean run time of  100 hard sudokus is : 0.34268333911895754
+The mean Cost Value of  100 hard sudokus is : 0.0
+The Accuracy of  100 hard sudokus is : 100.0
+Average Restarts of 100 hard sudokus is : 1.55
+Average Iterations of 100 hard sudokus is : 11123.37
+The mean run time of  100 extreme sudokus is : 5.230006132125855
+The mean Cost Value of  100 extreme sudokus is : 0.0
+The Accuracy of  100 extreme sudokus is : 100.0
+Average Restarts of 100 extreme sudokus is : 7.63
+Average Iterations of 100 extreme sudokus is : 59055.02
+
+
+
+Maximum Stagnation Iterations are 5000
+Maximum Restarts are 100
+Temperatures and Cooling Ranges are 1.0 0.0001 0.001
+Maximum Stagnation Count  5000
+The mean run time of  100 easy sudokus is : 0.19833530902862548
+The mean Cost Value of  100 easy sudokus is : 0.0
+The Accuracy of  100 easy sudokus is : 100.0
+Average Restarts of 100 easy sudokus is : 1.0
+Average Iterations of 100 easy sudokus is : 6014.87
+The mean run time of  100 medium sudokus is : 0.20401742696762085
+The mean Cost Value of  100 medium sudokus is : 0.0
+The Accuracy of  100 medium sudokus is : 100.0
+Average Restarts of 100 medium sudokus is : 1.07
+Average Iterations of 100 medium sudokus is : 6832.97
+The mean run time of  100 hard sudokus is : 0.34911843538284304
+The mean Cost Value of  100 hard sudokus is : 0.0
+The Accuracy of  100 hard sudokus is : 100.0
+Average Restarts of 100 hard sudokus is : 1.66
+Average Iterations of 100 hard sudokus is : 12168.09
+The mean run time of  100 extreme sudokus is : 1.4256914091110229
+The mean Cost Value of  100 extreme sudokus is : 0.0
+The Accuracy of  100 extreme sudokus is : 100.0
+Average Restarts of 100 extreme sudokus is : 6.57
+Average Iterations of 100 extreme sudokus is : 51302.98
+
+
+
+Maximum Stagnation Iterations are 5000
+Maximum Restarts are 100
+Temperatures and Cooling Ranges are 1.0 0.0001 0.01
+Maximum Stagnation Count  5000
+The mean run time of  100 easy sudokus is : 0.03084484815597534
+The mean Cost Value of  100 easy sudokus is : 0.0
+The Accuracy of  100 easy sudokus is : 100.0
+Average Restarts of 100 easy sudokus is : 1.04
+Average Iterations of 100 easy sudokus is : 953.68
+The mean run time of  100 medium sudokus is : 0.060734305381774906
+The mean Cost Value of  100 medium sudokus is : 0.0
+The Accuracy of  100 medium sudokus is : 100.0
+Average Restarts of 100 medium sudokus is : 2.27
+Average Iterations of 100 medium sudokus is : 2081.59
+The mean run time of  100 hard sudokus is : 0.3920611333847046
+The mean Cost Value of  100 hard sudokus is : 0.08
+The Accuracy of  100 hard sudokus is : 96.0
+Average Restarts of 100 hard sudokus is : 15.43
+Average Iterations of 100 hard sudokus is : 14149.31
+The mean run time of  100 extreme sudokus is : 1.6160289692878722
+The mean Cost Value of  100 extreme sudokus is : 1.16
+The Accuracy of  100 extreme sudokus is : 50.0
+Average Restarts of 100 extreme sudokus is : 64.57
+Average Iterations of 100 extreme sudokus is : 59210.69

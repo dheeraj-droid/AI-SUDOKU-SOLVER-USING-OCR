@@ -1,0 +1,94 @@
+The Population-Size of Genetic Algorithm is  10000
+The Mutation_rate is 0.3
+The Generations is 100
+The selection rate is 0.2
+The mean run time of  100 easy sudokus is : 46.89555319547653
+The mean Fitness Value of 100 easy sudokus is : -58.58
+The Accuracy of  100 easy sudokus is : 0.0
+The Average Restarts of 100 easy sudokus is : 100.0
+The mean run time of  100 medium sudokus is : 38.8265397977829
+The mean Fitness Value of 100 medium sudokus is : -49.84
+The Accuracy of  100 medium sudokus is : 0.0
+The Average Restarts of 100 medium sudokus is : 100.0
+The mean run time of  100 hard sudokus is : 47.03599547624588
+The mean Fitness Value of 100 hard sudokus is : -44.57
+The Accuracy of  100 hard sudokus is : 0.0
+The Average Restarts of 100 hard sudokus is : 100.0
+The mean run time of  100 extreme sudokus is : 68.20049060583115
+The mean Fitness Value of 100 extreme sudokus is : -40.51
+The Accuracy of  100 extreme sudokus is : 0.0
+The Average Restarts of 100 extreme sudokus is : 100.0
+python3 Genetic_Runnable1.py 100  16864.54s user 40.12s system 84% cpu 5:35:10.66 total
+
+
+The Population-Size of Genetic Algorithm is  10000
+The Mutation_rate is 0.25
+The Generations is 100
+The selection rate is 0.25
+The mean run time of  100 easy sudokus is : 46.40823660135269
+The mean Fitness Value of 100 easy sudokus is : -58.63
+The Accuracy of  100 easy sudokus is : 0.0
+The Average Restarts of 100 easy sudokus is : 100.0
+The mean run time of  100 medium sudokus is : 38.44709366321564
+The mean Fitness Value of 100 medium sudokus is : -50.14
+The Accuracy of  100 medium sudokus is : 0.0
+The Average Restarts of 100 medium sudokus is : 100.0
+The mean run time of  100 hard sudokus is : 45.88278077363968
+The mean Fitness Value of 100 hard sudokus is : -44.99
+The Accuracy of  100 hard sudokus is : 0.0
+The Average Restarts of 100 hard sudokus is : 100.0
+The mean run time of  100 extreme sudokus is : 68.35466203212738
+The mean Fitness Value of 100 extreme sudokus is : -41.11
+The Accuracy of  100 extreme sudokus is : 0.0
+The Average Restarts of 100 extreme sudokus is : 100.0
+python3 Genetic_Runnable.py 100  16684.35s user 39.72s system 83% cpu 5:34:19.52 total
+
+The Population-Size of Genetic Algorithm is  10000
+The Mutation_rate is 0.2
+The Generations is 100
+The selection rate is 0.3
+The mean run time of  100 easy sudokus is : 46.250499291419985
+The mean Fitness Value of 100 easy sudokus is : -58.67
+The Accuracy of  100 easy sudokus is : 0.0
+The Average Restarts of 100 easy sudokus is : 100.0
+The mean run time of  100 medium sudokus is : 38.32074407815933
+The mean Fitness Value of 100 medium sudokus is : -50.3
+The Accuracy of  100 medium sudokus is : 0.0
+The Average Restarts of 100 medium sudokus is : 100.0
+The mean run time of  100 hard sudokus is : 45.488721244335174
+The mean Fitness Value of 100 hard sudokus is : -45.09
+The Accuracy of  100 hard sudokus is : 0.0
+The Average Restarts of 100 hard sudokus is : 100.0
+The mean run time of  100 extreme sudokus is : 68.26294964075089
+The mean Fitness Value of 100 extreme sudokus is : -41.24
+The Accuracy of  100 extreme sudokus is : 0.0
+The Average Restarts of 100 extreme sudokus is : 100.0
+python3 Genetic_Runnable2.py 100  16612.03s user 39.43s system 82% cpu 5:37:50.54 total
+
+
+
+The Population-Size of Genetic Algorithm is  10000
+The Mutation_rate is 0.15
+The Generations is 100
+The selection rate is 0.35
+The mean run time of  100 easy sudokus is : 46.50612468719483
+The mean Fitness Value of 100 easy sudokus is : -58.65
+The Accuracy of  100 easy sudokus is : 0.0
+The Average Restarts of 100 easy sudokus is : 100.0
+The mean run time of  100 medium sudokus is : 38.52721432685852
+The mean Fitness Value of 100 medium sudokus is : -50.27
+The Accuracy of  100 medium sudokus is : 0.0
+The Average Restarts of 100 medium sudokus is : 100.0
+The mean run time of  100 hard sudokus is : 45.85746579647064
+The mean Fitness Value of 100 hard sudokus is : -45.17
+The Accuracy of  100 hard sudokus is : 0.0
+The Average Restarts of 100 hard sudokus is : 100.0
+The mean run time of  100 extreme sudokus is : 68.39416775465011
+The mean Fitness Value of 100 extreme sudokus is : -41.46
+The Accuracy of  100 extreme sudokus is : 0.0
+The Average Restarts of 100 extreme sudokus is : 100.0
+python3 Genetic_Runnable3.py 100  16702.57s user 39.60s system 83% cpu 5:34:59.77 total
+
+
+
+

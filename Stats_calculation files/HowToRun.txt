@@ -1,0 +1,7 @@
+I'm testing the algorithms for 100 boards of 4  difficulty levels
+
+run these below commands
+
+python3 Backtracking_Runnable1.py 100 
+python3 Genetic_Runnable1.py 100
+python3 Simulated_annealing_Runnable1.py 100
