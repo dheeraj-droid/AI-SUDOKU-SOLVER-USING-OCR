@@ -17,3 +17,4 @@
    7. After the command is run we will get a image named solved_sudoku in which our solved sudoku is present.
 
 ##The stats calculation files are our additional files that we used for testing purposes.The process of using those files is mentioned in howtouse.txt file inside the folder.
+##The algorithm folder contains the codes of our 3 algorithms.
