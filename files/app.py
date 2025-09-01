@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
 import imutils
-from sudoku_solver import solve_sudoku, print_board # Import your solver logic
+import solve_sudoku, print_board # Import your solver logic
 
 # --- Load Your Pre-trained OCR Model ---
 # This path is relative to the root of your repository
